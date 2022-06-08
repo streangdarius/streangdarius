@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/streangdarius/streangdarius/main/assets/name.png)
+<img align="center">![Image](https://raw.githubusercontent.com/streangdarius/streangdarius/main/assets/name.png)
 <h1 align="center">
 
 
