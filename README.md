@@ -7,7 +7,7 @@
   
 
 # What i use:
-  <div dir="rtl">
+  <div dir="ltr">
     
   <img alt="HTML5" width="32px" height="32px" src="https://raw.githubusercontent.com/streangdarius/streangdarius/07613e9f499c32d589acc94b69b8781ba9097964/assets/logos/html5.svg">[HTML]
   <img alt="CSS3" width="32px" height="32px" src="https://raw.githubusercontent.com/streangdarius/streangdarius/07613e9f499c32d589acc94b69b8781ba9097964/assets/logos/ccs3.svg">
