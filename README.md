@@ -8,7 +8,7 @@
 
 # What i use:
   <img alt="HTML5" width="32px" height="32px" src="https://raw.githubusercontent.com/streangdarius/streangdarius/07613e9f499c32d589acc94b69b8781ba9097964/assets/logos/html5.svg">
-  <img alt="CSS3" width="32px" height="32px" src="https://raw.githubusercontent.com/streangdarius/streangdarius/07613e9f499c32d589acc94b69b8781ba9097964/assets/logos/css3.svg">
+  <img alt="CSS3" width="32px" height="32px" src="https://raw.githubusercontent.com/streangdarius/streangdarius/07613e9f499c32d589acc94b69b8781ba9097964/assets/logos/ccs3.svg">
   <img alt="Bootstrap" width="32px" height="32px" src="https://raw.githubusercontent.com/streangdarius/streangdarius/07613e9f499c32d589acc94b69b8781ba9097964/assets/logos/bootstrap.svg">
   <img alt="GIT" width="32px" height="32px" src="https://raw.githubusercontent.com/streangdarius/streangdarius/07613e9f499c32d589acc94b69b8781ba9097964/assets/logos/git.svg">
   <img alt="JavaScript" width="32px" height="32px" src="https://raw.githubusercontent.com/streangdarius/streangdarius/07613e9f499c32d589acc94b69b8781ba9097964/assets/logos/javascript.svg">
