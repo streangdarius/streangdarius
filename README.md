@@ -1,11 +1,6 @@
+![Image](https://raw.githubusercontent.com/streangdarius/streangdarius/main/assets/name.png)
 <h1 align="center">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1635" height="357" viewBox="0 0 1635 357">
-  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""/>
-   </rdf:RDF>
-</x:xmpmeta>
+
 
 <!--
 **streangdarius/streangdarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
