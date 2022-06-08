@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/streangdarius/streangdarius/main/assets/name.png">
+<img align="center" width="635" heigth="129" src="https://raw.githubusercontent.com/streangdarius/streangdarius/main/assets/name.png">
 <h1 align="center">
 
 
