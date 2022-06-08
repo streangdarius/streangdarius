@@ -1,4 +1,5 @@
-<img align="center" width="635" heigth="129" src="https://raw.githubusercontent.com/streangdarius/streangdarius/main/assets/name.png">
+
+<p align="center"><img width="635" heigth="129" src="https://raw.githubusercontent.com/streangdarius/streangdarius/main/assets/name.png"></p>
 <h1 align="center">
 
 
