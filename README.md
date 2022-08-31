@@ -32,8 +32,4 @@
  
 <img alt="Firebase" width="42px" height="42px" src="https://raw.githubusercontent.com/streangdarius/streangdarius/7da5f8fd4d14b5ab82cce65ddd947b08d8e580f1/assets/logos/firebase.svg">
   
-<img alt="Angular" width="42px" height="42px" src="https://raw.githubusercontent.com/streangdarius/streangdarius/10ef400bd7d4c0f1bd55c5e3bd7134ba978c54a3/assets/logos/angular.svg">
-  
-<img alt="TypeScript" width="42px" height="42px" src="https://raw.githubusercontent.com/streangdarius/streangdarius/10ef400bd7d4c0f1bd55c5e3bd7134ba978c54a3/assets/logos/typescript.svg">
-  
 </div>
