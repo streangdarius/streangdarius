@@ -30,4 +30,5 @@
  
 <img alt="Firebase" width="42px" height="42px" src="https://raw.githubusercontent.com/streangdarius/streangdarius/7da5f8fd4d14b5ab82cce65ddd947b08d8e580f1/assets/logos/firebase.svg">
   
+<img alt="Figma" width="42px" height="42px" src="https://raw.githubusercontent.com/streangdarius/streangdarius/7da5f8fd4d14b5ab82cce65ddd947b08d8e580f1/assets/logos/firebase.svg">
 </div>
