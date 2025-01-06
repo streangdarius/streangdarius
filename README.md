@@ -1,10 +1,4 @@
 
-
-# Hello there!
-  My name is Darius and i am a Frontend Developer and a UI/UX enthusiast. I enjoy learning new technologies and i try to implement a new one with almost every project i start. Check out some of my pinned repositories. 
-  
-
-### Technologies i used:
 <div align="left">
     
 <img alt="HTML5" width="42px" height="42px" src="https://raw.githubusercontent.com/streangdarius/streangdarius/7da5f8fd4d14b5ab82cce65ddd947b08d8e580f1/assets/logos/html5.svg">
